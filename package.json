@@ -1,0 +1,31 @@
+{
+  "name": "react-app-events",
+  "version": "1.0.0",
+  "description": "Use global events in your React app with hooks",
+  "main": "index.js",
+  "repository": "https://github.com/nicolaslopezj/react-app-events",
+  "author": "nicolaslopezj",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "babel src -d lib",
+    "watch": "node watch.js",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "@types/graphql": "^14.0.3",
+    "@types/react": "^16.4.18",
+    "babel-core": "^6.26.3",
+    "colors": "^1.3.3",
+    "eslint-config-orionsoft": "^1.3.12"
+  }
+}
