@@ -1,6 +1,6 @@
 {
   "name": "react-app-events",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Use global events in your React app with hooks",
   "repository": "https://github.com/nicolaslopezj/react-app-events",
   "author": "nicolaslopezj",
