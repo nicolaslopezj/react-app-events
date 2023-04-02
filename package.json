@@ -1,6 +1,6 @@
 {
   "name": "react-app-events",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Use global events in your React app with hooks",
   "repository": "https://github.com/nicolaslopezj/react-app-events",
   "author": "nicolaslopezj",
@@ -17,7 +17,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "^16.7.0"
+    "react": "*"
   },
   "devDependencies": {
     "@types/graphql": "^14.0.3",
